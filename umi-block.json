@@ -430,6 +430,20 @@
       "previewUrl": "https://preview.pro.ant.design/result/success"
     },
     {
+      "key": "Test",
+      "description": "",
+      "url": "https://github.com/ant-design/pro-blocks/tree/master/Test",
+      "path": "Test",
+      "features": [
+        "antd"
+      ],
+      "img": "https://raw.githubusercontent.com/ant-design/pro-blocks/master/Test/snapshot.png?raw=true",
+      "tags": [
+        "test"
+      ],
+      "previewUrl": "https://preview.pro.ant.design/test"
+    },
+    {
       "name": "登录页",
       "key": "UserLogin",
       "description": "用户登录界面，支持用户名密码和手机号登录。",
